@@ -19,6 +19,7 @@ DEVELOPED BY : JERUSHLIN JOSE J B
 REG :212222240039
 
 ```
+
 import numpy as np
 import matplotlib.pyplot as py
 x=np.array(eval(input()))
@@ -38,11 +39,8 @@ py.scatter(x,y,color='blue')
 py.plot(x,y_pred,color="#CD5555")
 py.show()
 
-
-
-
-
 ```
+
 ## Output
 
 
